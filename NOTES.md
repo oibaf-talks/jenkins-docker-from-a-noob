@@ -3,6 +3,9 @@
 - Usar jenkins-data que tenho
 - Configurar uma cloud adicional em vm 'boot2docker'
 
+## Presentation
+- https://docs.google.com/presentation/d/12xFMt-NAnLw0hYS0dUx2wzl7nSRhAkIf-f4L41A4gy0/pub?start=false&loop=false&delayms=3000
+
 ## CoreOS
 - https://coreos.com/os/docs/latest/customizing-docker.html#enable-the-remote-api-on-a-new-socket
 - https://coreos.com/os/docs/latest/customizing-docker.html#use-an-http-proxy
