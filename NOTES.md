@@ -28,6 +28,9 @@ export HTTP_PROXY=http://172.17.0.1:3128
 export HTTPS_PROXY=http://172.17.0.1:3128
 ```
 
+## My base-images repo
+- https://github.com/tramasoli-docker/base-images
+
 ## Run same tests as TravisCI
 ```shell
 docker build -t `echo $PWD | awk -F '/' '{ print $6 }'`-test .
