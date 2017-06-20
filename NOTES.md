@@ -7,10 +7,13 @@ Configurar uma cloud adicional em vm 'boot2docker'
 # CoreOS
 https://coreos.com/os/docs/latest/customizing-docker.html#enable-the-remote-api-on-a-new-socket
 https://coreos.com/os/docs/latest/customizing-docker.html#use-an-http-proxy
---- Jenkins Image
-https://hub.docker.com/_/jenkins/
 
+# Jenkins Image
+https://hub.docker.com/_/jenkins/
+```shell
 docker run -p 8080:8080 -p 50000:50000 -v $PWD/jenkins-docker:/var/jenkins_home jenkins
+```
+
 # Maven
 Maven e proxies: https://maven.apache.org/settings.html#Proxies
 
