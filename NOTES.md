@@ -22,13 +22,20 @@ https://gist.githubusercontent.com/tramasoli/64122caaca26e1520551eb57b00d7ed5/ra
 
 # Configure boot2docker
 https://coderwall.com/p/siqnjg/disable-tls-on-boot2docker
-
+```shell
 sudo vi /var/lib/boot2docker/profile 
 DOCKER_TLS=no
 export HTTP_PROXY=http://172.17.0.1:3128
 export HTTPS_PROXY=http://172.17.0.1:3128
+```
 
 # Run same tests as TravisCI
+```shell
 docker build -t `echo $PWD | awk -F '/' '{ print $6 }'`-test .
+```
+
 depois
+
+```shell
 docker run -d --rm --name test `echo $PWD | awk -F '/' '{ print $6 }'`-test && ./travis-test.sh test && docker stop test
+```
