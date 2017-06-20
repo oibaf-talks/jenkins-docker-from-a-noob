@@ -1,0 +1,20 @@
+Started by upstream project "[8mha:////4Kd++vZHygElS2nc/ANUr3QXCGd4vqLFoqBV6cky6MV8AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/az8JP0ATz93fQAW23U7vwAAAA==[0mPING" build number [8mha:////4Nch1k+18lF9T+caVOj00QDtMt5LALNIVo6d5bGHeZcqAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYe/az8JP0ATz93fUMDACYWsF/BAAAA[0m10
+originally caused by:
+ Started by user [8mha:////4Kb+oLwN5g3uazVhWFCvS7ZASi66NR73tHliTxqD+v3gAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9lNTcfABqAyClvwAAAA==[0mDemo User
+[EnvInject] - Loading node environment variables.
+Building remotely on [8mha:////4IOJLVeF4IiDKx2pfk4ql4ValsPM2gOxXAs8vitDxvKHAAAAqB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyhEgYZ/eT83ILSktQi/ZLU4pJU3URTsyQLM4u01GTDRABPS9e30QAAAA==[0mteste-a56b868fec1a (docker-client) in workspace /root/workspace/DOCKER_IMG_BUILDER
+Copied 1 artifact from "[8mha:////4NmUBaRzy6sFPeDdoPlgdufhk75sjl7Y5Y3sNg78ujHMAAAAix+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHg0s/KT9IP8PRz1wcAiBmuq48AAAA=[0mPING" build number [8mha:////4OtDAmY+uvZ58FshTYxTRGR1s8NZ+giMmzVgLRiQ0JjaAAAAjh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKmHg1c/KT9IP8PRz1zc00AcAsy3OKZIAAAA=[0m10
+[DOCKER_IMG_BUILDER] $ /bin/sh -xe /tmp/hudson4101344220165001215.sh
++ echo 'FROM payara/server-full
+COPY binary/*.war $DEPLOY_DIR'
++ TAG=tramasoli/jenkins-docker-demo:PING-10
++ docker build -t tramasoli/jenkins-docker-demo:PING-10 .
+Sending build context to Docker daemon 13.31 kB
+Step 1/2 : FROM payara/server-full
+ ---> bef31e33e46f
+Step 2/2 : COPY binary/*.war $DEPLOY_DIR
+ ---> 288723d939c9
+Removing intermediate container 912f8f4d1568
+Successfully built 288723d939c9
+Successfully tagged tramasoli/jenkins-docker-demo:PING-10
+Finished: SUCCESS

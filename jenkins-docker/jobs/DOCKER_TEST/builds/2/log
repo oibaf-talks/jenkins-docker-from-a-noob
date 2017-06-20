@@ -1,0 +1,7 @@
+Started by user [8mha:////4Kb+oLwN5g3uazVhWFCvS7ZASi66NR73tHliTxqD+v3gAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9lNTcfABqAyClvwAAAA==[0mDemo User
+Building remotely on [8mha:////4EepGnnN6ATenI7TKZqZXafhYQUCE1Iby0PtPrWhnn3NAAAAqB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyhEgYZ/eT83ILSktQi/ZLU4pJU3WQzEyOjJMtEY+NUCwCN8zXF0QAAAA==[0mteste-c6422b9a33e8 (docker-client) in workspace /root/workspace/DOCKER_TEST
+[DOCKER_TEST] $ /bin/sh -xe /tmp/hudson219551651097777860.sh
++ set +x
+c6422b9a33e8
+Client: Version: 17.03.1-ce API version: 1.26 (downgraded from 1.27) Go version: go1.7.5 Git commit: c6d412e Built: Mon Mar 27 17:05:44 2017 OS/Arch: linux/amd64 Server: Version: 17.03.0-ce API version: 1.26 (minimum version 1.12) Go version: go1.7.5 Git commit: 3a232c8 Built: Tue Feb 28 08:01:32 2017 OS/Arch: linux/amd64 Experimental: false
+Finished: SUCCESS
