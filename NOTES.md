@@ -6,7 +6,7 @@
 ## Presentation
 - https://docs.google.com/presentation/d/12xFMt-NAnLw0hYS0dUx2wzl7nSRhAkIf-f4L41A4gy0/pub?start=false&loop=false&delayms=3000
 
-## CoreOS
+## CoreOS / Docker com systemd
 - https://coreos.com/os/docs/latest/customizing-docker.html#enable-the-remote-api-on-a-new-socket
 - https://coreos.com/os/docs/latest/customizing-docker.html#use-an-http-proxy
 
@@ -35,6 +35,8 @@ DOCKER_TLS=no
 #export HTTP_PROXY=http://192.168.56.1:3128
 #export HTTPS_PROXY=http://192.168.56.1:3128
 ```
+## Test images Docker Hub
+- https://hub.docker.com/r/tramasoli/jenkins-docker-demo/tags/
 
 ## My base-images repo
 - https://github.com/tramasoli-docker/base-images
