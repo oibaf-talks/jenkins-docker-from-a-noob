@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2017-06-20 22:46:05.263 UTC</timestamp>
+  <md5sum>9c248be3674c797dad5f80689c4709ef</md5sum>
+  <fileName>Credential id=8f1a8852-3513-4eb2-9970-6096fd91db8c name=DOCKER_HUB_USER</fileName>
+  <usages>
+    <entry>
+      <string>DOCKER_IMG_RUNNER</string>
+      <ranges>1-7</ranges>
+    </entry>
+    <entry>
+      <string>DOCKER_IMG_BUILDER</string>
+      <ranges>8-13</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

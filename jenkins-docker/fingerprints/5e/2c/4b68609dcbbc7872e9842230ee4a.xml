@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2017-07-25 02:26:27.991 UTC</timestamp>
+  <original>
+    <name>PING</name>
+    <number>15</number>
+  </original>
+  <md5sum>5e2c4b68609dcbbc7872e9842230ee4a</md5sum>
+  <fileName>ping.war</fileName>
+  <usages>
+    <entry>
+      <string>DOCKER_IMG_RUNNER</string>
+      <ranges>1-2</ranges>
+    </entry>
+    <entry>
+      <string>DOCKER_IMG_BUILDER</string>
+      <ranges>12</ranges>
+    </entry>
+    <entry>
+      <string>PING</string>
+      <ranges>15</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

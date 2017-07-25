@@ -1,0 +1,241 @@
+Started by user [8mha:////4Kb+oLwN5g3uazVhWFCvS7ZASi66NR73tHliTxqD+v3gAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9lNTcfABqAyClvwAAAA==[0mDemo User
+Started by upstream project "[8mha:////4AzKfrJdURyiiMxrqtDkqzShA1kS9YTJmfMJYj//Ht4OAAAAyR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyhEgZbfRPj5FRzY4NEXfMUEwtdE8M0A92kVFMD3cREs0RLy7QUS6PENP2s/CR9F39nb9egeE9f93inUE8fF9cgfQAiAWhb8gAAAA==[0mDOCKER_IMG_BUILDER" build number [8mha:////4ORNtUJ+Y6mrwbHd9/DYmwzWF6dqUwXTC48y531JuXspAAAAyx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ7fRPj5FRzY4NEXfMUEwtdE8M0A92kVFMD3cREs0RLy7QUS6PENP2s/CR9F39nb9egeE9f93inUE8fF9cgfUMjALVc3uP0AAAA[0m12
+originally caused by:
+ Started by upstream project "[8mha:////4Kd++vZHygElS2nc/ANUr3QXCGd4vqLFoqBV6cky6MV8AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/az8JP0ATz93fQAW23U7vwAAAA==[0mPING" build number [8mha:////4OiApKXkdI9hV6zZ/sfX6ILyfpOWyiyVyZJIVoQZAaH5AAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYe/az8JP0ATz93fUNTAKni2i/BAAAA[0m15
+ originally caused by:
+  Started by user [8mha:////4Kb+oLwN5g3uazVhWFCvS7ZASi66NR73tHliTxqD+v3gAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9lNTcfABqAyClvwAAAA==[0mDemo User
+ Started by user [8mha:////4Kb+oLwN5g3uazVhWFCvS7ZASi66NR73tHliTxqD+v3gAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9lNTcfABqAyClvwAAAA==[0mDemo User
+ Started by upstream project "[8mha:////4N/k/bUOMTr8t1D1DGHBSaGf2Hmg+js63y2n76ulu7cjAAAAux+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgZ9fUOjZMs0w7Rk3eTEVENdE4OkZN1ES9NUXQMjc0NDY2Nj00QTM/2s/CT9AE8/d30A19DbweQAAAA=[0mPING" build number [8mha:////4FrN843ia28t1aCtHfOjVA8E/OxJaSgNvhjQDAfAVAVvAAAAvR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZDfUOjZMs0w7Rk3eTEVENdE4OkZN1ES9NUXQMjc0NDY2Nj00QTM/2s/CT9AE8/d31DUwCJBvk+5gAAAA==[0m15
+ originally caused by:
+  Started by user [8mha:////4Kb+oLwN5g3uazVhWFCvS7ZASi66NR73tHliTxqD+v3gAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9lNTcfABqAyClvwAAAA==[0mDemo User
+[EnvInject] - Loading node environment variables.
+Building remotely on [8mha:////4EfjTdIqsERxPuhvxBp/v7E0ucBGY4GmMe4fpCqT5eeRAAAAqB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyhEgYZ/eT83ILSktQi/ZLU4pJUXeNEszRjSzPDlCRLUwDVfKb00QAAAA==[0mteste-3a6f3961db95 (docker-client) in workspace /root/workspace/DOCKER_IMG_RUNNER
+Copied 1 artifact from "[8mha:////4NmUBaRzy6sFPeDdoPlgdufhk75sjl7Y5Y3sNg78ujHMAAAAix+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHg0s/KT9IP8PRz1wcAiBmuq48AAAA=[0mPING" build number [8mha:////4Idf8QtUkAS76FFY+5di1HaNujF8ALCcw7SDqwZEFS5wAAAAjh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKmHg1c/KT9IP8PRz1zc01QcA9tm5VJIAAAA=[0m15
+[DOCKER_IMG_RUNNER] $ /bin/sh -xe /tmp/hudson2682935668455420407.sh
++ NAME=PING-15
++ TAG=****/jenkins-docker-demo:PING-15
++ docker run --label=SERVICE_NAME=PING-15 '--label=traefik.frontend.rule=HostRegexp:PING-15.{subdomain:.*}' ****/jenkins-docker-demo:PING-15
+Jul 25, 2017 2:28:30 AM com.sun.enterprise.admin.launcher.GFLauncherLogger info
+INFO: JVM invocation command line:
+/docker-java-home/bin/java
+-cp
+/opt/payara41/glassfish/modules/glassfish.jar
+-XX:+UnlockDiagnosticVMOptions
+-XX:NewRatio=2
+-XX:MaxPermSize=192m
+-Xmx512m
+-client
+-javaagent:/opt/payara41/glassfish/lib/monitor/flashlight-agent.jar
+-Djavax.xml.accessExternalSchema=all
+-Djavax.net.ssl.trustStore=/opt/payara41/glassfish/domains/domain1/config/cacerts.jks
+-Djdk.tls.rejectClientInitiatedRenegotiation=true
+-Djdk.corba.allowOutputStreamSubclass=true
+-Dfelix.fileinstall.dir=/opt/payara41/glassfish/modules/autostart/
+-Dorg.glassfish.additionalOSGiBundlesToStart=org.apache.felix.shell,org.apache.felix.gogo.runtime,org.apache.felix.gogo.shell,org.apache.felix.gogo.command,org.apache.felix.shell.remote,org.apache.felix.fileinstall
+-Dcom.sun.aas.installRoot=/opt/payara41/glassfish
+-Dfelix.fileinstall.poll=5000
+-Djava.endorsed.dirs=/opt/payara41/glassfish/modules/endorsed:/opt/payara41/glassfish/lib/endorsed
+-Djava.security.policy=/opt/payara41/glassfish/domains/domain1/config/server.policy
+-Dosgi.shell.telnet.maxconn=1
+-Dfelix.fileinstall.bundles.startTransient=true
+-Dcom.sun.enterprise.config.config_environment_factory_class=com.sun.enterprise.config.serverbeans.AppserverConfigEnvironmentFactory
+-Dfelix.fileinstall.log.level=2
+-Djavax.net.ssl.keyStore=/opt/payara41/glassfish/domains/domain1/config/keystore.jks
+-Djava.security.auth.login.config=/opt/payara41/glassfish/domains/domain1/config/login.conf
+-Dfelix.fileinstall.disableConfigSave=false
+-Dorg.glassfish.grizzly.DEFAULT_MEMORY_MANAGER=org.glassfish.grizzly.memory.HeapMemoryManager
+-Dfelix.fileinstall.bundles.new.start=true
+-Dcom.sun.aas.instanceRoot=/opt/payara41/glassfish/domains/domain1
+-Dosgi.shell.telnet.port=6666
+-Dgosh.args=--nointeractive
+-Dcom.sun.enterprise.security.httpsOutboundKeyAlias=s1as
+-Dorg.jboss.weld.serialization.beanIdentifierIndexOptimization=false
+-Dosgi.shell.telnet.ip=127.0.0.1
+-DANTLR_USE_DIRECT_CLASS_LOADING=true
+-Djava.awt.headless=true
+-Dcom.ctc.wstx.returnNullForDefaultNamespace=true
+-Djava.ext.dirs=/docker-java-home/lib/ext:/docker-java-home/jre/lib/ext:/opt/payara41/glassfish/domains/domain1/lib/ext
+-Djdbc.drivers=org.apache.derby.jdbc.ClientDriver
+-Djava.library.path=/opt/payara41/glassfish/lib:/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+com.sun.enterprise.glassfish.bootstrap.ASMain
+-upgrade
+false
+-read-stdin
+true
+-postbootcommandfile
+/opt/payara41/post-boot-commands.asadmin
+-domainname
+domain1
+-domaindir
+/opt/payara41/glassfish/domains/domain1
+-asadmin-args
+--host,,,localhost,,,--port,,,4848,,,--secure=false,,,--terse=false,,,--echo=false,,,--interactive=false,,,start-domain,,,--verbose=true,,,--watchdog=false,,,--debug=false,,,--domaindir,,,/opt/payara41/glassfish/domains,,,domain1
+-instancename
+server
+-type
+DAS
+-verbose
+true
+-asadmin-classpath
+/opt/payara41/glassfish/lib/client/appserver-cli.jar
+-debug
+false
+-asadmin-classname
+com.sun.enterprise.admin.cli.AdminMain
+-watchdog
+false
+OpenJDK 64-Bit Server VM warning: ignoring option MaxPermSize=192m; support was removed in 8.0
+Launching GlassFish on Felix platform
+Jul 25, 2017 2:28:32 AM com.sun.enterprise.glassfish.bootstrap.osgi.BundleProvisioner createBundleProvisioner
+INFO: Create bundle provisioner class = class com.sun.enterprise.glassfish.bootstrap.osgi.BundleProvisioner.
+Registered com.sun.enterprise.glassfish.bootstrap.osgi.EmbeddedOSGiGlassFishRuntime@1eaaafa5 in service registry.
+
+
+
+#!## LogManagerService.postConstruct : rootFolder=/opt/payara41/glassfish
+#!## LogManagerService.postConstruct : templateDir=/opt/payara41/glassfish/lib/templates
+#!## LogManagerService.postConstruct : src=/opt/payara41/glassfish/lib/templates/logging.properties
+#!## LogManagerService.postConstruct : dest=/opt/payara41/glassfish/domains/domain1/config/logging.properties
+[#|2017-07-25T02:28:35.141+0000|INFO|Payara 4.1|javax.enterprise.logging|_ThreadID=16;_ThreadName=RunLevelControllerThread-1500949714863;_TimeMillis=1500949715141;_LevelValue=800;_MessageID=NCLS-LOGGING-00009;|
+  Running Payara Version: Payara Server  4.1.2.172 #badassfish (build 235)|#]
+
+[#|2017-07-25T02:28:35.143+0000|INFO|Payara 4.1|javax.enterprise.logging|_ThreadID=16;_ThreadName=RunLevelControllerThread-1500949714863;_TimeMillis=1500949715143;_LevelValue=800;_MessageID=NCLS-LOGGING-00010;|
+  Server log file is using Formatter class: com.sun.enterprise.server.logging.ODLLogFormatter|#]
+
+[#|2017-07-25T02:28:36.194+0000|INFO|Payara 4.1|javax.enterprise.security.services|_ThreadID=16;_ThreadName=RunLevelControllerThread-1500949714863;_TimeMillis=1500949716194;_LevelValue=800;_MessageID=SEC-SVCS-00100;|
+  Authorization Service has successfully initialized.|#]
+
+[#|2017-07-25T02:28:36.270+0000|INFO|Payara 4.1|javax.enterprise.system.core.security|_ThreadID=15;_ThreadName=RunLevelControllerThread-1500949714860;_TimeMillis=1500949716270;_LevelValue=800;_MessageID=NCLS-SECURITY-01115;|
+  Realm [admin-realm] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.|#]
+
+[#|2017-07-25T02:28:36.284+0000|INFO|Payara 4.1|javax.enterprise.system.core.security|_ThreadID=15;_ThreadName=RunLevelControllerThread-1500949714860;_TimeMillis=1500949716284;_LevelValue=800;_MessageID=NCLS-SECURITY-01115;|
+  Realm [file] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.|#]
+
+[#|2017-07-25T02:28:36.293+0000|INFO|Payara 4.1|javax.enterprise.system.core.security|_ThreadID=15;_ThreadName=RunLevelControllerThread-1500949714860;_TimeMillis=1500949716293;_LevelValue=800;_MessageID=NCLS-SECURITY-01115;|
+  Realm [certificate] of classtype [com.sun.enterprise.security.auth.realm.certificate.CertificateRealm] successfully created.|#]
+
+[#|2017-07-25T02:28:36.371+0000|INFO|Payara 4.1|org.glassfish.ha.store.spi.BackingStoreFactoryRegistry|_ThreadID=16;_ThreadName=RunLevelControllerThread-1500949714863;_TimeMillis=1500949716371;_LevelValue=800;|
+  Registered org.glassfish.ha.store.adapter.cache.ShoalBackingStoreProxy for persistence-type = replicated in BackingStoreFactoryRegistry|#]
+
+[#|2017-07-25T02:28:36.419+0000|INFO|Payara 4.1|org.glassfish.ha.store.spi.BackingStoreFactoryRegistry|_ThreadID=16;_ThreadName=RunLevelControllerThread-1500949714863;_TimeMillis=1500949716419;_LevelValue=800;|
+  Registered fish.payara.ha.hazelcast.store.HazelcastBackingStoreFactoryProxy for persistence-type = hazelcast in BackingStoreFactoryRegistry|#]
+
+[#|2017-07-25T02:28:36.421+0000|INFO|Payara 4.1|fish.payara.ha.hazelcast.store.HazelcastBackingStoreFactory|_ThreadID=16;_ThreadName=RunLevelControllerThread-1500949714863;_TimeMillis=1500949716421;_LevelValue=800;|
+  Registered Hazelcast BackingStoreFactory with persistence-type = hazelcast|#]
+
+[#|2017-07-25T02:28:36.536+0000|INFO|Payara 4.1|javax.enterprise.system.core|_ThreadID=17;_ThreadName=RunLevelControllerThread-1500949714885;_TimeMillis=1500949716536;_LevelValue=800;_MessageID=NCLS-CORE-00087;|
+  Grizzly Framework 2.3.29 started in: 48ms - bound to [/0.0.0.0:8080]|#]
+
+[#|2017-07-25T02:28:36.567+0000|INFO|Payara 4.1|javax.enterprise.system.core|_ThreadID=17;_ThreadName=RunLevelControllerThread-1500949714885;_TimeMillis=1500949716567;_LevelValue=800;_MessageID=NCLS-CORE-00087;|
+  Grizzly Framework 2.3.29 started in: 4ms - bound to [/0.0.0.0:8181]|#]
+
+[#|2017-07-25T02:28:36.606+0000|INFO|Payara 4.1|javax.enterprise.system.core|_ThreadID=17;_ThreadName=RunLevelControllerThread-1500949714885;_TimeMillis=1500949716606;_LevelValue=800;_MessageID=NCLS-CORE-00087;|
+  Grizzly Framework 2.3.29 started in: 9ms - bound to [/0.0.0.0:4848]|#]
+
+[#|2017-07-25T02:28:36.672+0000|INFO|Payara 4.1|javax.enterprise.system.core|_ThreadID=15;_ThreadName=RunLevelControllerThread-1500949714860;_TimeMillis=1500949716672;_LevelValue=800;_MessageID=NCLS-CORE-00087;|
+  Grizzly Framework 2.3.29 started in: 2ms - bound to [/0.0.0.0:3700]|#]
+
+[#|2017-07-25T02:28:36.688+0000|INFO|Payara 4.1|javax.enterprise.system.core|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949716688;_LevelValue=800;_MessageID=NCLS-CORE-00017;|
+  Payara Server  4.1.2.172 #badassfish (235) startup time : Felix (3,843ms), startup services(1,844ms), total(5,687ms)|#]
+
+[#|2017-07-25T02:28:36.711+0000|INFO|Payara 4.1|fish.payara.nucleus.notification.NotificationService|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949716711;_LevelValue=800;|
+  Payara Notification Service bootstrapped with configuration: NotificationExecutionOptions{enabled=true, notifierConfigurationExecutionOptionsList={LOG=LogNotifierConfigurationExecutionOptions{useSeparateLogFile=false} NotifierConfigurationExecutionOptions{notifierType=LOG, enabled=true}}}|#]
+
+[#|2017-07-25T02:28:36.798+0000|INFO|Payara 4.1|fish.payara.nucleus.util.CleanupPostBoot|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949716798;_LevelValue=800;|
+  Cleaning JarFileFactory Cache to prevent jar FD leaks|#]
+
+[#|2017-07-25T02:28:37.059+0000|INFO|Payara 4.1|javax.enterprise.system.core|_ThreadID=18;_ThreadName=RunLevelControllerThread-1500949714886;_TimeMillis=1500949717059;_LevelValue=800;_MessageID=NCLS-CORE-00087;|
+  Grizzly Framework 2.3.29 started in: 1ms - bound to [/0.0.0.0:7676]|#]
+
+[#|2017-07-25T02:28:37.082+0000|INFO|Payara 4.1|javax.enterprise.bootstrap|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949717082;_LevelValue=800;_MessageID=NCLS-BOOTSTRAP-00027;|
+  Registered com.sun.enterprise.glassfish.bootstrap.osgi.EmbeddedOSGiGlassFishImpl@68ab0936 as OSGi service registration: org.apache.felix.framework.ServiceRegistrationImpl@37df14d1.|#]
+
+[#|2017-07-25T02:28:37.086+0000|INFO|Payara 4.1||_ThreadID=1;_ThreadName=main;_TimeMillis=1500949717086;_LevelValue=800;|
+  Reading in commandments from /opt/payara41/post-boot-commands.asadmin|#]
+
+[#|2017-07-25T02:28:37.286+0000|INFO|Payara 4.1|org.hibernate.validator.internal.util.Version|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949717286;_LevelValue=800;|
+  HV000001: Hibernate Validator 5.1.2.Final|#]
+
+[#|2017-07-25T02:28:37.468+0000|INFO|Payara 4.1|javax.enterprise.system.jmx|_ThreadID=57;_ThreadName=Thread-15;_TimeMillis=1500949717468;_LevelValue=800;_MessageID=NCLS-JMX-00024;|
+  Creating a SecureRMIServerSocketFactory @ 0.0.0.0 with ssl config = GlassFishConfigBean.org.glassfish.grizzly.config.dom.Ssl|#]
+
+[#|2017-07-25T02:28:37.478+0000|INFO|Payara 4.1||_ThreadID=57;_ThreadName=Thread-15;_TimeMillis=1500949717478;_LevelValue=800;|
+  SSLParams =org.glassfish.admin.mbeanserver.ssl.SSLParams@252d507e|#]
+
+[#|2017-07-25T02:28:37.479+0000|WARNING|Payara 4.1|javax.enterprise.system.jmx|_ThreadID=57;_ThreadName=Thread-15;_TimeMillis=1500949717479;_LevelValue=900;_MessageID=NCLS-JMX-00020;|
+  All SSL cipher suites disabled for network-listener(s).  Using SSL implementation specific defaults|#]
+
+[#|2017-07-25T02:28:37.497+0000|INFO|Payara 4.1||_ThreadID=57;_ThreadName=Thread-15;_TimeMillis=1500949717497;_LevelValue=800;|
+  SSLParams =org.glassfish.admin.mbeanserver.ssl.SSLParams@252d507e|#]
+
+[#|2017-07-25T02:28:37.500+0000|WARNING|Payara 4.1|javax.enterprise.system.jmx|_ThreadID=57;_ThreadName=Thread-15;_TimeMillis=1500949717500;_LevelValue=900;_MessageID=NCLS-JMX-00020;|
+  All SSL cipher suites disabled for network-listener(s).  Using SSL implementation specific defaults|#]
+
+[#|2017-07-25T02:28:38.082+0000|INFO|Payara 4.1|javax.enterprise.system.jmx|_ThreadID=57;_ThreadName=Thread-15;_TimeMillis=1500949718082;_LevelValue=800;_MessageID=NCLS-JMX-00025;|
+  SSLServerSocket /0.0.0.0:8686 and [SSL: ServerSocket[addr=/0.0.0.0,localport=8686]] created|#]
+
+[#|2017-07-25T02:28:38.132+0000|INFO|Payara 4.1||_ThreadID=13;_ThreadName=FelixStartLevel;_TimeMillis=1500949718132;_LevelValue=800;|
+  /opt/payara41/glassfish/domains/domain1/autodeploy/bundles does not exist, please create it.|#]
+
+[#|2017-07-25T02:28:38.737+0000|INFO|Payara 4.1|javax.enterprise.system.jmx|_ThreadID=57;_ThreadName=Thread-15;_TimeMillis=1500949718737;_LevelValue=800;_MessageID=NCLS-JMX-00005;|
+  JMXStartupService has started JMXConnector on JMXService URL service:jmx:rmi://af7752147299:8686/jndi/rmi://af7752147299:8686/jmxrmi|#]
+
+[#|2017-07-25T02:28:38.987+0000|INFO|Payara 4.1|javax.enterprise.system.core.security|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949718987;_LevelValue=800;_MessageID=NCLS-SECURITY-01002;|
+  Java security manager is disabled.|#]
+
+[#|2017-07-25T02:28:38.989+0000|INFO|Payara 4.1|javax.enterprise.system.core.security|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949718989;_LevelValue=800;_MessageID=NCLS-SECURITY-01010;|
+  Entering Security Startup Service.|#]
+
+[#|2017-07-25T02:28:38.994+0000|INFO|Payara 4.1|javax.enterprise.system.core.security|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949718994;_LevelValue=800;_MessageID=NCLS-SECURITY-01143;|
+  Loading policy provider com.sun.enterprise.security.provider.PolicyWrapper.|#]
+
+[#|2017-07-25T02:28:39.053+0000|INFO|Payara 4.1|javax.enterprise.system.core.security|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949719053;_LevelValue=800;_MessageID=NCLS-SECURITY-01011;|
+  Security Service(s) started successfully.|#]
+
+[#|2017-07-25T02:28:39.448+0000|INFO|Payara 4.1|javax.enterprise.web|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949719448;_LevelValue=800;_MessageID=AS-WEB-GLUE-00198;|
+  Created HTTP listener http-listener-1 on host/port 0.0.0.0:8080|#]
+
+[#|2017-07-25T02:28:39.459+0000|INFO|Payara 4.1|javax.enterprise.web|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949719459;_LevelValue=800;_MessageID=AS-WEB-GLUE-00198;|
+  Created HTTP listener http-listener-2 on host/port 0.0.0.0:8181|#]
+
+[#|2017-07-25T02:28:39.462+0000|INFO|Payara 4.1|javax.enterprise.web|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949719462;_LevelValue=800;_MessageID=AS-WEB-GLUE-00198;|
+  Created HTTP listener admin-listener on host/port 0.0.0.0:4848|#]
+
+[#|2017-07-25T02:28:39.498+0000|INFO|Payara 4.1|javax.enterprise.web|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949719498;_LevelValue=800;_MessageID=AS-WEB-GLUE-00200;|
+  Created virtual server server|#]
+
+[#|2017-07-25T02:28:39.507+0000|INFO|Payara 4.1|javax.enterprise.web|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949719507;_LevelValue=800;_MessageID=AS-WEB-GLUE-00200;|
+  Created virtual server __asadmin|#]
+
+[#|2017-07-25T02:28:39.740+0000|INFO|Payara 4.1|javax.enterprise.web.core|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949719740;_LevelValue=800;_MessageID=AS-WEB-CORE-00306;|
+  Setting JAAS app name glassfish-web|#]
+
+[#|2017-07-25T02:28:39.741+0000|INFO|Payara 4.1|javax.enterprise.web|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949719741;_LevelValue=800;_MessageID=AS-WEB-GLUE-00201;|
+  Virtual server server loaded default web module |#]
+
+[#|2017-07-25T02:28:40.865+0000|INFO|Payara 4.1|javax.enterprise.ejb.container|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949720865;_LevelValue=800;_MessageID=AS-EJB-00054;|
+  Portable JNDI names for EJB ServerWatch: [java:global/ping/ServerWatch, java:global/ping/ServerWatch!com.airhacks.ping.control.ServerWatch]|#]
+
+[#|2017-07-25T02:28:41.102+0000|INFO|Payara 4.1|org.jboss.weld.Version|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949721102;_LevelValue=800;|
+  WELD-000900: 2.4.2 (Final)|#]
+
+[#|2017-07-25T02:28:42.610+0000|INFO|Payara 4.1|org.jboss.weld.Event|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949722610;_LevelValue=800;|
+  WELD-000411: Observer method [BackedAnnotatedMethod] private org.glassfish.jersey.ext.cdi1x.internal.CdiComponentProvider.processAnnotatedType(@Observes ProcessAnnotatedType) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.|#]
+
+[#|2017-07-25T02:28:45.279+0000|INFO|Payara 4.1||_ThreadID=1;_ThreadName=main;_TimeMillis=1500949725279;_LevelValue=800;|
+  Cannot find the resource bundle for the name com.sun.logging.enterprise.system.core.naming for class org.glassfish.concurrent.runtime.deployer.ConcurrentObjectFactory using org.glassfish.main.concurrent.impl [42]|#]
+
+[#|2017-07-25T02:28:46.215+0000|INFO|Payara 4.1|javax.enterprise.web|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949726215;_LevelValue=800;_MessageID=AS-WEB-GLUE-00172;|
+  Loading application [ping] at [/ping]|#]
+
+[#|2017-07-25T02:28:46.303+0000|INFO|Payara 4.1|javax.enterprise.system.core|_ThreadID=1;_ThreadName=main;_TimeMillis=1500949726303;_LevelValue=800;|
+  ping was successfully deployed in 8,742 milliseconds.|#]
+
+[#|2017-07-25T02:28:46.309+0000|INFO|Payara 4.1||_ThreadID=1;_ThreadName=main;_TimeMillis=1500949726309;_LevelValue=800;|
+  PlainTextActionReporterSUCCESSDescription: deploy AdminCommandApplication deployed with name ping.
+    [name=ping
+|#]
+
+Build was aborted
+Aborted by [8mha:////4Kb+oLwN5g3uazVhWFCvS7ZASi66NR73tHliTxqD+v3gAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9lNTcfABqAyClvwAAAA==[0mDemo User
+Finished: ABORTED

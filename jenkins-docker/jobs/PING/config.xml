@@ -11,7 +11,7 @@
     </hudson.plugins.copyartifact.CopyArtifactPermissionProperty>
     <EnvInjectJobProperty plugin="envinject@2.1">
       <info>
-        <scriptContent>if [ 0 -eq 1 ]; then
+        <scriptContent>if [ 1 -eq 1 ]; then
 mkdir -p /root/.m2
 echo &apos;
 
@@ -19,6 +19,7 @@ echo &apos;
       xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
       xsi:schemaLocation=&quot;http://maven.apache.org/SETTINGS/1.0.0
                           https://maven.apache.org/xsd/settings-1.0.0.xsd&quot;&gt;
+&lt;!--
       &lt;proxies&gt;
         &lt;proxy&gt;
           &lt;id&gt;myproxy&lt;/id&gt;
@@ -28,6 +29,16 @@ echo &apos;
           &lt;port&gt;3128&lt;/port&gt;
         &lt;/proxy&gt;
       &lt;/proxies&gt;
+
+  &lt;mirrors&gt;
+    &lt;mirror&gt;
+      &lt;id&gt;internal-repository&lt;/id&gt;
+      &lt;name&gt;Maven Repository Manager running on repo.mycompany.com&lt;/name&gt;
+      &lt;url&gt;http://nexus3:8081/maven-public&lt;/url&gt;
+      &lt;mirrorOf&gt;*&lt;/mirrorOf&gt;
+    &lt;/mirror&gt;
+  &lt;/mirrors&gt;
+--&gt;
     &lt;/settings&gt;&apos; &gt; /root/.m2/settings.xml
 fi</scriptContent>
         <secureGroovyScript plugin="script-security@1.29">

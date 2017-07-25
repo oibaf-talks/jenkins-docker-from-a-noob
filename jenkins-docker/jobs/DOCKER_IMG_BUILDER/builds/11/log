@@ -1,0 +1,174 @@
+Started by upstream project "[8mha:////4Kd++vZHygElS2nc/ANUr3QXCGd4vqLFoqBV6cky6MV8AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/az8JP0ATz93fQAW23U7vwAAAA==[0mPING" build number [8mha:////4EBTywaZhbGNOsQG9SIj+zL50KNGAoc5wt84CEdmAP9/AAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYe/az8JP0ATz93fUNjAJxHucbBAAAA[0m13
+originally caused by:
+ Started by user [8mha:////4Kb+oLwN5g3uazVhWFCvS7ZASi66NR73tHliTxqD+v3gAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9lNTcfABqAyClvwAAAA==[0mDemo User
+[EnvInject] - Loading node environment variables.
+Building remotely on [8mha:////4HiCja2Nbx9LEzDViDcRNiLINVDSwX3PpjrLNlTtWHnTAAAAqB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyhEgYZ/eT83ILSktQi/ZLU4pJUXUtTQ4tUM6MkU9NkUwAGI49V0QAAAA==[0mteste-9518e62b55c5 (docker-client) in workspace /root/workspace/DOCKER_IMG_BUILDER
+Copied 1 artifact from "[8mha:////4NmUBaRzy6sFPeDdoPlgdufhk75sjl7Y5Y3sNg78ujHMAAAAix+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHg0s/KT9IP8PRz1wcAiBmuq48AAAA=[0mPING" build number [8mha:////4Oyz2/P3xUU44cPNlYwrSI0xqdkyic4btjvraEdejkInAAAAjh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKmHg1c/KT9IP8PRz1zc01gcAcH7jApIAAAA=[0m13
+[DOCKER_IMG_BUILDER] $ /bin/sh -xe /tmp/hudson498491507598663523.sh
++ echo 'FROM payara/server-full
+COPY binary/*.war $DEPLOY_DIR'
++ TAG=****/jenkins-docker-demo:PING-13
++ docker build -t ****/jenkins-docker-demo:PING-13 .
+Sending build context to Docker daemon 13.31 kB
+Step 1/2 : FROM payara/server-full
+latest: Pulling from payara/server-full
+10a267c67f42: Pulling fs layer
+fb5937da9414: Pulling fs layer
+9021b2326a1e: Pulling fs layer
+8c6c40e9ec4f: Pulling fs layer
+7a63e1725461: Pulling fs layer
+79e8ed83f43a: Pulling fs layer
+161cbb85a481: Pulling fs layer
+a479609da9c8: Pulling fs layer
+e32f81724ea4: Pulling fs layer
+a0e4c59b8406: Pulling fs layer
+7687533d7dbf: Pulling fs layer
+f3e7dc64fcbf: Pulling fs layer
+1d4c04f72b35: Pulling fs layer
+e177344c4484: Pulling fs layer
+19facc5d7bbe: Pulling fs layer
+864c0d9d9086: Pulling fs layer
+181a68ab5fca: Pulling fs layer
+18989727df8c: Pulling fs layer
+a46d3ac6423e: Pulling fs layer
+8c6c40e9ec4f: Waiting
+7a63e1725461: Waiting
+79e8ed83f43a: Waiting
+161cbb85a481: Waiting
+a479609da9c8: Waiting
+e32f81724ea4: Waiting
+a0e4c59b8406: Waiting
+7687533d7dbf: Waiting
+f3e7dc64fcbf: Waiting
+1d4c04f72b35: Waiting
+e177344c4484: Waiting
+19facc5d7bbe: Waiting
+864c0d9d9086: Waiting
+181a68ab5fca: Waiting
+18989727df8c: Waiting
+a46d3ac6423e: Waiting
+fb5937da9414: Verifying Checksum
+fb5937da9414: Download complete
+8c6c40e9ec4f: Verifying Checksum
+8c6c40e9ec4f: Download complete
+7a63e1725461: Verifying Checksum
+7a63e1725461: Download complete
+9021b2326a1e: Verifying Checksum
+9021b2326a1e: Download complete
+10a267c67f42: Verifying Checksum
+10a267c67f42: Download complete
+79e8ed83f43a: Verifying Checksum
+79e8ed83f43a: Download complete
+10a267c67f42: Pull complete
+161cbb85a481: Verifying Checksum
+161cbb85a481: Download complete
+fb5937da9414: Pull complete
+e32f81724ea4: Download complete
+9021b2326a1e: Pull complete
+8c6c40e9ec4f: Pull complete
+7a63e1725461: Pull complete
+79e8ed83f43a: Pull complete
+161cbb85a481: Pull complete
+7687533d7dbf: Verifying Checksum
+7687533d7dbf: Download complete
+a0e4c59b8406: Verifying Checksum
+a0e4c59b8406: Download complete
+1d4c04f72b35: Verifying Checksum
+1d4c04f72b35: Download complete
+e177344c4484: Verifying Checksum
+e177344c4484: Download complete
+f3e7dc64fcbf: Verifying Checksum
+f3e7dc64fcbf: Download complete
+19facc5d7bbe: Verifying Checksum
+19facc5d7bbe: Download complete
+181a68ab5fca: Verifying Checksum
+181a68ab5fca: Download complete
+a479609da9c8: Verifying Checksum
+a479609da9c8: Download complete
+18989727df8c: Verifying Checksum
+18989727df8c: Download complete
+a46d3ac6423e: Verifying Checksum
+a46d3ac6423e: Download complete
+a479609da9c8: Pull complete
+e32f81724ea4: Pull complete
+a0e4c59b8406: Pull complete
+7687533d7dbf: Pull complete
+f3e7dc64fcbf: Pull complete
+1d4c04f72b35: Pull complete
+e177344c4484: Pull complete
+19facc5d7bbe: Pull complete
+864c0d9d9086: Verifying Checksum
+864c0d9d9086: Download complete
+864c0d9d9086: Pull complete
+181a68ab5fca: Pull complete
+18989727df8c: Pull complete
+a46d3ac6423e: Pull complete
+Digest: sha256:d25e6ea9053d4c9b2e388c1a1a4fd1d1f798450baba369b6eac3ece029bd7f35
+Status: Downloaded newer image for payara/server-full:latest
+ ---> bef31e33e46f
+Step 2/2 : COPY binary/*.war $DEPLOY_DIR
+ ---> 848a7efc3457
+Removing intermediate container 2a8614b3b7ad
+Successfully built 848a7efc3457
+Successfully tagged ****/jenkins-docker-demo:PING-13
++ docker login -u **** -p ****
+Login Succeeded
++ docker push ****/jenkins-docker-demo:PING-13
+The push refers to a repository [docker.io/****/jenkins-docker-demo]
+8ebd1c77dbc6: Preparing
+9f409dfb73bc: Preparing
+9562e8f86458: Preparing
+8c6a53d97525: Preparing
+fce6bbc3bcbe: Preparing
+5386c4ac60fa: Preparing
+5c70b0ddf7f0: Preparing
+6c5620b9b9fa: Preparing
+07c5ced435f5: Preparing
+ed719123a09e: Preparing
+28b4b2d2f365: Preparing
+bfee0515af91: Preparing
+2afcf4c557eb: Preparing
+72cfa243711c: Preparing
+9bf603e17b04: Preparing
+70b22baddf90: Preparing
+596ecbaf3ba4: Preparing
+445ed6ee6867: Preparing
+c59fa6cbcbd9: Preparing
+8d4d1ab5ff74: Preparing
+5386c4ac60fa: Waiting
+5c70b0ddf7f0: Waiting
+6c5620b9b9fa: Waiting
+07c5ced435f5: Waiting
+ed719123a09e: Waiting
+28b4b2d2f365: Waiting
+bfee0515af91: Waiting
+2afcf4c557eb: Waiting
+72cfa243711c: Waiting
+9bf603e17b04: Waiting
+70b22baddf90: Waiting
+596ecbaf3ba4: Waiting
+445ed6ee6867: Waiting
+c59fa6cbcbd9: Waiting
+8d4d1ab5ff74: Waiting
+9562e8f86458: Layer already exists
+8c6a53d97525: Layer already exists
+9f409dfb73bc: Layer already exists
+fce6bbc3bcbe: Layer already exists
+07c5ced435f5: Layer already exists
+6c5620b9b9fa: Layer already exists
+5386c4ac60fa: Layer already exists
+5c70b0ddf7f0: Layer already exists
+ed719123a09e: Layer already exists
+8ebd1c77dbc6: Pushed
+28b4b2d2f365: Layer already exists
+2afcf4c557eb: Layer already exists
+bfee0515af91: Layer already exists
+596ecbaf3ba4: Layer already exists
+72cfa243711c: Layer already exists
+70b22baddf90: Layer already exists
+445ed6ee6867: Layer already exists
+9bf603e17b04: Layer already exists
+c59fa6cbcbd9: Layer already exists
+8d4d1ab5ff74: Layer already exists
+PING-13: digest: sha256:032a0c2fb7a36bdf713d63ec81e16d64dbe0b567cd629949e416c06f49690df7 size: 4508
+Finished: SUCCESS

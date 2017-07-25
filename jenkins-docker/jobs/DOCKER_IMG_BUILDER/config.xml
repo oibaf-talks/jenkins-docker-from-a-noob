@@ -50,10 +50,30 @@
 COPY binary/*.war $DEPLOY_DIR&apos; &gt; Dockerfile
 TAG=tramasoli/jenkins-docker-demo:$APP_NAME-$APP_BUILD
 docker build -t $TAG .
-#docker login -u $USER -p $PASS
-#docker push $TAG</command>
+docker login -u $DOCKER_USER -p $DOCKER_PASS
+docker push $TAG</command>
     </hudson.tasks.Shell>
   </builders>
-  <publishers/>
-  <buildWrappers/>
+  <publishers>
+    <au.com.centrumsystems.hudson.plugin.buildpipeline.trigger.BuildPipelineTrigger plugin="build-pipeline-plugin@1.5.6">
+      <configs>
+        <hudson.plugins.parameterizedtrigger.CurrentBuildParameters plugin="parameterized-trigger@2.34"/>
+      </configs>
+      <downstreamProjectNames>DOCKER_IMG_RUNNER</downstreamProjectNames>
+    </au.com.centrumsystems.hudson.plugin.buildpipeline.trigger.BuildPipelineTrigger>
+  </publishers>
+  <buildWrappers>
+    <org.jenkinsci.plugins.credentialsbinding.impl.SecretBuildWrapper plugin="credentials-binding@1.12">
+      <bindings>
+        <org.jenkinsci.plugins.credentialsbinding.impl.StringBinding>
+          <credentialsId>8f1a8852-3513-4eb2-9970-6096fd91db8c</credentialsId>
+          <variable>DOCKER_USER</variable>
+        </org.jenkinsci.plugins.credentialsbinding.impl.StringBinding>
+        <org.jenkinsci.plugins.credentialsbinding.impl.StringBinding>
+          <credentialsId>78195c95-a31e-4b14-ab4c-e424c1e87d60</credentialsId>
+          <variable>DOCKER_PASS</variable>
+        </org.jenkinsci.plugins.credentialsbinding.impl.StringBinding>
+      </bindings>
+    </org.jenkinsci.plugins.credentialsbinding.impl.SecretBuildWrapper>
+  </buildWrappers>
 </project>

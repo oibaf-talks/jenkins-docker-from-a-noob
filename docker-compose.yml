@@ -1,0 +1,49 @@
+version: "3"
+
+services:
+  consul1:
+    hostname: consul1
+    image: consul
+    command: consul agent -server -ui -config-dir=/consul/config
+    volumes:
+      - ./consul-srv-config/consul:/consul/config
+    labels:
+      SERVICE_8500_NAME: "consul-web"
+    networks:
+      app_net:
+    expose:
+      - "8300"
+      - "8300/udp"
+      - "8301"
+      - "8301/udp"
+      - "8302"
+      - "8302/udp"
+      - "8400"
+      - "8500"
+      - "8600"
+      - "8600/udp"
+    ports:
+      - "8500:8500"
+      - "8600:8600"
+  jenkins:
+    volumes:
+      - ./jenkins-docker:/var/jenkins_home
+    labels:
+      SERVICE_8080_NAME: jenkins
+    image: jenkins
+    networks:
+      - app_net
+    ports:
+      - "8080:8080"
+  nexus3:
+    volumes:
+      - ./nexus3-data:/nexus-data
+    labels:
+      SERVICE_NAME: nexus3
+    image: sonatype/nexus3
+    networks:
+      - app_net
+    ports:
+      - "8081:8081"
+networks:
+  app_net:

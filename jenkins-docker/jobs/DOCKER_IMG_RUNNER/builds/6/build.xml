@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>DOCKER_IMG_BUILDER</upstreamProject>
+            <upstreamUrl>00633e68-755b-4b2c-95a8-927d385856b3/job/DOCKER_IMG_BUILDER/</upstreamUrl>
+            <upstreamBuild>13</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UpstreamCause>
+                <upstreamProject>PING</upstreamProject>
+                <upstreamUrl>job/PING/</upstreamUrl>
+                <upstreamBuild>16</upstreamBuild>
+                <upstreamCauses>
+                  <hudson.model.Cause_-UserIdCause>
+                    <userId>demo</userId>
+                  </hudson.model.Cause_-UserIdCause>
+                </upstreamCauses>
+              </hudson.model.Cause_-UpstreamCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters class="java.util.Arrays$ArrayList">
+        <a class="hudson.model.ParameterValue-array">
+          <hudson.model.StringParameterValue>
+            <name>APP_NAME</name>
+            <value>PING</value>
+          </hudson.model.StringParameterValue>
+          <hudson.model.StringParameterValue>
+            <name>APP_BUILD</name>
+            <value>16</value>
+          </hudson.model.StringParameterValue>
+          <hudson.model.StringParameterValue>
+            <name>PARENT_JOB</name>
+            <value>PING</value>
+          </hudson.model.StringParameterValue>
+        </a>
+      </parameters>
+      <parameterDefinitionNames class="hudson.model.ParametersDefinitionProperty$1">
+        <outer-class>
+          <parameterDefinitions>
+            <hudson.model.StringParameterDefinition>
+              <name>APP_NAME</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>APP_BUILD</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>PARENT_JOB</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+          </parameterDefinitions>
+        </outer-class>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <au.com.centrumsystems.hudson.plugin.buildpipeline.BuildPipelineView_-MyUserIdCause plugin="build-pipeline-plugin@1.5.6">
+            <userId>demo</userId>
+          </au.com.centrumsystems.hudson.plugin.buildpipeline.BuildPipelineView_-MyUserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <org.jenkinsci.plugins.envinject.EnvInjectPluginAction plugin="envinject@2.1"/>
+    <hudson.plugins.copyartifact.CopyArtifact_-EnvAction plugin="copyartifact@1.38.1"/>
+    <hudson.tasks.Fingerprinter_-FingerprintAction>
+      <record>
+        <entry>
+          <string>ping.war</string>
+          <string>543e9a41344533ee15dd85d991358511</string>
+        </entry>
+      </record>
+    </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <com.nirima.jenkins.plugins.docker.action.DockerBuildAction plugin="docker-plugin@0.16.2">
+      <containerHost>tcp://172.17.0.1:2375</containerHost>
+      <containerId>abdfabf4d19a030d9140d8eb5e9f93777b3ea5ca1bb2f1393c5f92ea96e0953a</containerId>
+      <remoteFsMapping>/var/jenkins_home</remoteFsMapping>
+    </com.nirima.jenkins.plugins.docker.action.DockerBuildAction>
+  </actions>
+  <queueId>11</queueId>
+  <timestamp>1500953166395</timestamp>
+  <startTime>1500953166397</startTime>
+  <result>SUCCESS</result>
+  <duration>2149</duration>
+  <charset>US-ASCII</charset>
+  <keepLog>false</keepLog>
+  <builtOn>teste-abdfabf4d19a</builtOn>
+  <workspace>/root/workspace/DOCKER_IMG_RUNNER</workspace>
+  <hudsonVersion>2.46.3</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

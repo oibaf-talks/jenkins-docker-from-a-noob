@@ -1,0 +1,79 @@
+Started by upstream project "[8mha:////4Kd++vZHygElS2nc/ANUr3QXCGd4vqLFoqBV6cky6MV8AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/az8JP0ATz93fQAW23U7vwAAAA==[0mPING" build number [8mha:////4A7NHB8fFCFPIQCTCjFMCa2FlEplu4VcTtMb6r/ISMlZAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYe/az8JP0ATz93fUMjAAp3vrHBAAAA[0m12
+originally caused by:
+ Started by user [8mha:////4Kb+oLwN5g3uazVhWFCvS7ZASi66NR73tHliTxqD+v3gAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9lNTcfABqAyClvwAAAA==[0mDemo User
+[EnvInject] - Loading node environment variables.
+Building remotely on [8mha:////4A64SW6Z8MeDAyBC7fG6GTuzxeoK81Nc2sacFvwBcnboAAAAqB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyhEgYZ/eT83ILSktQi/ZLU4pJUXdM0y8RkQ0Mj4xQDAwBUCVlo0QAAAA==[0mteste-5f9ac1123d00 (docker-client) in workspace /root/workspace/DOCKER_IMG_BUILDER
+Copied 1 artifact from "[8mha:////4NmUBaRzy6sFPeDdoPlgdufhk75sjl7Y5Y3sNg78ujHMAAAAix+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHg0s/KT9IP8PRz1wcAiBmuq48AAAA=[0mPING" build number [8mha:////4BoJEbj++CEfhRmJVBLaI+SahI1G7zqNPjDGO3cYWTIiAAAAjh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKmHg1c/KT9IP8PRz1zc00gcAMU/4G5IAAAA=[0m12
+[DOCKER_IMG_BUILDER] $ /bin/sh -xe /tmp/hudson4250418076205213252.sh
++ echo 'FROM payara/server-full
+COPY binary/*.war $DEPLOY_DIR'
++ TAG=****/jenkins-docker-demo:PING-12
++ docker build -t ****/jenkins-docker-demo:PING-12 .
+Sending build context to Docker daemon 13.31 kB
+Step 1/2 : FROM payara/server-full
+ ---> bef31e33e46f
+Step 2/2 : COPY binary/*.war $DEPLOY_DIR
+ ---> 63263342fa2d
+Removing intermediate container 8bcf64821d52
+Successfully built 63263342fa2d
+Successfully tagged ****/jenkins-docker-demo:PING-12
++ docker login -u **** -p ****
+Login Succeeded
++ docker push ****/jenkins-docker-demo:PING-12
+The push refers to a repository [docker.io/****/jenkins-docker-demo]
+97cbb5460223: Preparing
+9f409dfb73bc: Preparing
+9562e8f86458: Preparing
+8c6a53d97525: Preparing
+fce6bbc3bcbe: Preparing
+5386c4ac60fa: Preparing
+5c70b0ddf7f0: Preparing
+6c5620b9b9fa: Preparing
+07c5ced435f5: Preparing
+ed719123a09e: Preparing
+28b4b2d2f365: Preparing
+bfee0515af91: Preparing
+2afcf4c557eb: Preparing
+72cfa243711c: Preparing
+9bf603e17b04: Preparing
+70b22baddf90: Preparing
+596ecbaf3ba4: Preparing
+445ed6ee6867: Preparing
+c59fa6cbcbd9: Preparing
+8d4d1ab5ff74: Preparing
+5386c4ac60fa: Waiting
+5c70b0ddf7f0: Waiting
+6c5620b9b9fa: Waiting
+07c5ced435f5: Waiting
+28b4b2d2f365: Waiting
+bfee0515af91: Waiting
+ed719123a09e: Waiting
+2afcf4c557eb: Waiting
+72cfa243711c: Waiting
+596ecbaf3ba4: Waiting
+9bf603e17b04: Waiting
+70b22baddf90: Waiting
+445ed6ee6867: Waiting
+8d4d1ab5ff74: Waiting
+9f409dfb73bc: Layer already exists
+8c6a53d97525: Layer already exists
+9562e8f86458: Layer already exists
+fce6bbc3bcbe: Layer already exists
+6c5620b9b9fa: Layer already exists
+5c70b0ddf7f0: Layer already exists
+5386c4ac60fa: Layer already exists
+ed719123a09e: Layer already exists
+07c5ced435f5: Layer already exists
+bfee0515af91: Layer already exists
+28b4b2d2f365: Layer already exists
+72cfa243711c: Layer already exists
+9bf603e17b04: Layer already exists
+97cbb5460223: Pushed
+596ecbaf3ba4: Layer already exists
+2afcf4c557eb: Layer already exists
+c59fa6cbcbd9: Layer already exists
+70b22baddf90: Layer already exists
+445ed6ee6867: Layer already exists
+8d4d1ab5ff74: Layer already exists
+PING-12: digest: sha256:ce1201a5f773b3058ec59dc753e75a4a082a92109fc2ff0c6077d6c72dff42f5 size: 4508
+Finished: SUCCESS

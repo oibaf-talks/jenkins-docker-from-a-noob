@@ -10,7 +10,7 @@
   <usages>
     <entry>
       <string>DOCKER_IMG_BUILDER</string>
-      <ranges>4-6</ranges>
+      <ranges>6</ranges>
     </entry>
     <entry>
       <string>PING</string>
